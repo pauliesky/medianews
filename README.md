@@ -1,1 +1,1 @@
-# j-lpage-1
+This code contains medianews website
